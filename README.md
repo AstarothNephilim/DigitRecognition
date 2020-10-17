@@ -1,2 +1,2 @@
-# MatlabNeural
+# DigitRecognition
 Different exercises practicing with neural networks, linear regression and other techniques
